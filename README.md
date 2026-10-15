@@ -1,9 +1,8 @@
-<div>
+<div align=""center>
 
 
 ## oi, eu gosto de criar interfaces legais
 
----
 
 <img src="https://i.pinimg.com/originals/b1/5e/cf/b15ecfd7099d2f2f56396ab22cf71a51.gif"/>
   
